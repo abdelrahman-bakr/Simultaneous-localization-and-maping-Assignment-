@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1581048291 source:c:\codeblocks-nosetup\assgn1_2020_control\robotcontrolinterface.c
+	"robotControl.h"
+
+1580971923 c:\codeblocks-nosetup\assgn1_2020_control\robotcontrol.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<termios.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+	<math.h>
+
+1581226262 source:c:\codeblocks-nosetup\assgn1_2020_control\robotcontrol.c
+	"robotControl.h"
+
+1597199483 source:c:\users\dell\downloads\new folder\assgn1_2020_control\assgn1_2020_control\robotcontrol.c
+	"robotControl.h"
+
+1581040324 c:\users\dell\downloads\new folder\assgn1_2020_control\assgn1_2020_control\robotcontrol.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<termios.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+	<math.h>
+
+1581116692 source:c:\users\dell\downloads\new folder\assgn1_2020_control\assgn1_2020_control\robotcontrolinterface.c
+	"robotControl.h"
+
+1597234461 source:c:\users\dell\downloads\new folder\assgn1_2020_control - manual done\assgn1_2020_control\robotcontrolinterface.c
+	"robotControl.h"
+
+1597234086 c:\users\dell\downloads\new folder\assgn1_2020_control - manual done\assgn1_2020_control\robotcontrol.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<termios.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+	<math.h>
+
+1597309494 source:c:\users\dell\downloads\new folder\assgn1_2020_control - manual done\assgn1_2020_control\robotcontrol.c
+	"robotControl.h"
+
+1597234461 source:c:\users\dell\downloads\new folder\assgn1_2020_control - auto trying\assgn1_2020_control\robotcontrolinterface.c
+	"robotControl.h"
+
+1597234086 c:\users\dell\downloads\new folder\assgn1_2020_control - auto trying\assgn1_2020_control\robotcontrol.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<termios.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+	<math.h>
+
+1597379495 source:c:\users\dell\downloads\new folder\assgn1_2020_control - auto trying\assgn1_2020_control\robotcontrol.c
+	"robotControl.h"
+
+1597234461 source:c:\users\dell\downloads\new folder\assgn1_2020_control - trying with the same states\assgn1_2020_control\robotcontrolinterface.c
+	"robotControl.h"
+
+1597234086 c:\users\dell\downloads\new folder\assgn1_2020_control - trying with the same states\assgn1_2020_control\robotcontrol.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<termios.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+	<math.h>
+
+1597234461 source:e:\freelancing work\slam\new folder\assgn1_2020_control - trying with the same states\assgn1_2020_control\robotcontrolinterface.c
+	"robotControl.h"
+
+1597234086 e:\freelancing work\slam\new folder\assgn1_2020_control - trying with the same states\assgn1_2020_control\robotcontrol.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<termios.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+	<math.h>
+
